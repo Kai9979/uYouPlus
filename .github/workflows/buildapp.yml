@@ -13,7 +13,7 @@ on:
         type: string
       decrypted_youtube_url:
         description: "Direct URL to the decrypted YouTube ipa. The version of YouTube will be detected automatically."
-        default: "https://www.dropbox.com/scl/fi/rhnkhn4bxuulaba7bmztx/YouTube-v19.10.5.ipa?rlkey=ll4ivse3aqxro8esj32saptdg&dl=0"
+        default: "https://www.dropbox.com/scl/fi/b8o8pztjqwyimx3vzmheg/YouTube-v19.10.5.rar?rlkey=thyj4fbqouxqsrupw3jkhg6cj&dl=0"
         required: true
         type: string
       bundle_id:
